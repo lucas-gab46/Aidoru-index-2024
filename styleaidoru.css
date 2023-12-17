@@ -1,0 +1,106 @@
+h1 {
+    color: rgb(16, 170, 231), 87%, 48%);
+        border-top:5px solid rgb(0, 195, 255);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+    
+        body{
+    
+        margin:0;
+    
+    
+        }
+        h4 {
+        color: green;
+        font-family: 'M PLUS 1p', sans-serif;
+        }
+    
+        h3 {
+        color: palevioletred;
+        font-family: 'M PLUS 1p', sans-serif;
+    
+    
+        }
+        .header{
+    
+        color: rgb(16, 170, 231);
+        padding: 80px;
+        text-align:center;
+        }
+        .navbar{
+        display: flex;
+        justify-content: center;
+        background: black;
+        }
+    
+        h5 {
+        color: purple;
+        font-family: 'M PLUS 1p', sans-serif;
+    
+    
+        }
+    
+        a.linkakb48{
+    
+            color: pink;
+            border: 2px solid white;
+            text-decoration: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: all 0.3s;
+        }
+        
+        a:hover {
+            background-color: white;
+            color: pink;
+        
+    
+    
+        }
+    
+        a.linksakurazaka46{
+        color: pink;
+        background-color: white;
+        border: 2px solid pink;
+        text-decoration: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        transition: all 0.3s;
+        }
+        a:hover {
+            background-color: black;
+            color: pink}
+            
+    
+        a.linknogizaka46{
+        color: purple;
+        background-color: whitesmoke;
+        border: 2px solid purple;
+        text-decoration: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        transition: all 0.3s;
+        }
+        a:hover {
+            background-color: black;
+            color: purple}
+    
+        .aidoru-indexcc{
+            background: rgb(2,0,36);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,145,240,1) 0%);
+            color:white;
+            width: 100px;
+            position: fixed;
+            bottom: 0%;
+            right: 0%; 
+    
+    
+    
+        }
+        @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
+        body {
+            
+            background: rgb(2,0,36);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,145,240,1) 15%, rgba(0,212,255,1) 100%);
+    
+        }
