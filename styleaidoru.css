@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(16, 170, 231), 87%, 48%);
+    color: rgb(16, 170, 231), (87%, 48%);
         border-top:5px solid rgb(0, 195, 255);
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
         }
@@ -50,8 +50,8 @@ h1 {
             transition: all 0.3s;
         }
         
-        a:hover {
-            background-color: white;
+        a.linkakb48:hover{
+            background-color: black;
             color: pink;
         
     
@@ -67,7 +67,7 @@ h1 {
         border-radius: 5px;
         transition: all 0.3s;
         }
-        a:hover {
+        a.linksakurazaka46:hover {
             background-color: black;
             color: pink}
             
@@ -81,9 +81,11 @@ h1 {
         border-radius: 5px;
         transition: all 0.3s;
         }
-        a:hover {
+        a.linknogizaka46:hover {
             background-color: black;
-            color: purple}
+            color: purple
+        }
+
     
         .aidoru-indexcc{
             background: rgb(2,0,36);
