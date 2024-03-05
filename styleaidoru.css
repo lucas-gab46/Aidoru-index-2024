@@ -2,7 +2,7 @@
 h1 {
     color: rgb(16, 170, 231);
     border-top: 5px solid rgb(0, 195, 255);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
 }
 
 
@@ -48,19 +48,19 @@ h6 {
     font-size: 20px;
   }
   
-  h7 {
-    color: black;
-    font-family: 'M PLUS 1p', sans-serif;
-    font-size: 20px;
-  }
-
+ 
 
 ul li.AkimotoYasushiGroups {
     font-family: 'M PLUS 1p', sans-serif;
     font-size: 24px;
     color:black;
+    font-weight: bold;
 }
 
+
+  .AkimotoYasushiGroups {
+    font-weight: bold;
+  }
 
 a.linkakb48,
 a.linksakurazaka46,
@@ -117,8 +117,13 @@ a.linknogizaka46:hover {
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
 
 body {
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(11, 145, 240, 1) 15%, rgba(0, 212, 255, 1) 100%);
-    margin: 0;
+    background: rgb(0,235,254);
+    background: linear-gradient(0deg, rgba(0,235,254,1) 0%, rgba(0,164,255,1) 100%);
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+
+  .remove-underline2 {
+    text-decoration: none;
+    color: pink;
+  }
